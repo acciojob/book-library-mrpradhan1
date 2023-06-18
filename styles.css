@@ -17,13 +17,13 @@ h3{
 }
 .author-name{
     text-align:left;
-    color: rgb(46, 204, 113);
+    color: #777777;
     padding: 0px;
     margin: 0px;
 }
 .price-tag{
     background-color: #2ecc71;
-    color: #ffffff;
+    color: white;
     border-radius: 0.2rem;
     height: 1.7rem;
     text-align: center;
