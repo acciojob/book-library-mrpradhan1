@@ -1,4 +1,31 @@
-/*  your css code here. If applicable */
-.container{
-	border: 
+body{
+    background-color: #f8f8f8;
+    text-align: center;
+}
+.book-library{
+    background-color: #ffffff;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 0% 35%;
+    padding: 0 1rem;
+}
+
+h3{
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+.author-name{
+    text-align:left;
+    color: #777777;
+    padding: 0px;
+    margin: 0px;
+}
+.price-tag{
+    background-color: #2ecc71;
+    color: #ffffff;
+    border-radius: 0.2rem;
+    height: 1.7rem;
+    text-align: center;
+    margin-bottom: 2rem;
 }
