@@ -21,9 +21,9 @@ h3{
     padding: 0px;
     margin: 0px;
 }
-.price-tag{
-    background-color: #2ecc71;
-    color: white;
+.price-block{
+    background-color: rgb(46, 204, 113);
+    color: rgb(255,255,255);
     border-radius: 0.2rem;
     height: 1.7rem;
     text-align: center;
