@@ -22,8 +22,8 @@ h3{
     margin: 0px;
 }
 .price-block{
-    background-color: rgb(46, 204, 113);
-    color: rgb(255,255,255);
+    background-color:#f8f8f8;
+    color: rgb(46, 204, 113);
     border-radius: 0.2rem;
     height: 1.7rem;
     text-align: center;
